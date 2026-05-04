@@ -1,1 +1,2 @@
 Ini adalah baris pertama dari catatan gw
+Ini adalah baris kedua, gw lagi ngetes fitur revisi di Github
