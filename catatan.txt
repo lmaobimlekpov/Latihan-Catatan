@@ -1,2 +1,3 @@
 Ini adalah baris pertama dari catatan gw
 Ini adalah baris kedua, gw lagi ngetes fitur revisi di Github
+Ini baris ketiga, gw nyoba fitur branch (ini lagi di branch)
